@@ -1,0 +1,20 @@
+/* main.css / news / JSnetwork Official site / Yone */
+@charset "UTF-8";
+
+/* ---------- Main ---------- */
+/* ----- main ----- */
+#main {
+  padding: 2em 10vw;
+}
+
+#pageTitle {
+  text-align: center;
+}
+
+#members {
+  padding: 2em 0;
+}
+
+.member {
+  padding: .5em 0;
+}
