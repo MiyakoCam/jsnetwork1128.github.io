@@ -1,5 +1,10 @@
 // 
-// main.js / JSnetwork Official site / Yone
+//   main.js | JSnetwork Official site
+// 
+//   (c) 2022 JSnetwork | Source code by よね/Yone
+// 
+//   No modification or reproduction of any kind is permitted.
+//   改変や複製を一切禁じます。
 // 
 
 // ---------- Init var ---------- //
