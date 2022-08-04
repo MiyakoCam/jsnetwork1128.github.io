@@ -1,0 +1,31 @@
+/* 
+
+  index.css | schedule | JSnetwork Official site
+
+  (c) 2022 JSnetwork | Source code by よね/Yone
+
+  No modification or reproduction of any kind is permitted.
+  改変や複製を一切禁じます。
+
+*/
+@charset "UTF-8";
+
+/* ---------- Main ---------- */
+/* ----- main ----- */
+#main {
+  padding: 2em 10vw;
+}
+
+#pageTitle {
+  text-align: center;
+}
+
+#img_schedule {
+  margin-top: 2em;
+  width: 100%;
+  border-radius: .5em;
+}
+
+table, th, td {
+  border: 1px #010101 solid;
+}

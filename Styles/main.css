@@ -144,7 +144,7 @@ header nav>ul>li {
   margin: 0 1em;
 
   height: 80%;
-  width: 8em;
+  width: 9em;
   border-radius: .5em;
 }
 
@@ -185,7 +185,7 @@ footer a {
 }
 
 /* ---------- Responsive ---------- */
-@media (max-width: 782px) {
+@media (max-width: 831px) {
   header .btn_link {
     display: flex;
   }
