@@ -21,9 +21,51 @@
 }
 
 #members {
-  padding: 2em 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 2em 0;
+}
+
+.row-three {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 2em;
+    width: 100%;
+
+    align-items: center;
 }
 
 .member {
-  padding: .5em 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 16em;
+    padding: .5em 0;
+
+    text-align: center;
+}
+
+.icon {
+    width: 8em;
+}
+
+.name {
+    margin-top: 1em;
+    font-weight: 600;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 831px) {
+    .row-three {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .member {
+        padding: 1em;
+    }
 }
